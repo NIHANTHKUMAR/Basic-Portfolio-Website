@@ -1,10 +1,29 @@
 # Basic-Portfolio-Website
-body {
-  font-family: sans-serif;
-  margin: 0;
-  padding: 0;
-}
 
-h1, h2 {
-  text-align: center;
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>My Portfolio</h1>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <!-- Add project details here -->
+  </section>
+
+  <section id="social-media">
+    <h2>Social Media</h2>
+    <!-- Add social media links here -->
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <!-- Add experience details here -->
+  </section>
+</body>
+</html>
+
+
